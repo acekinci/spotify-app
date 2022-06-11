@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spotify-app/static/css/main.684df430.css",
+    "main.js": "/spotify-app/static/js/main.cdaeec8f.js",
+    "static/media/logo.svg": "/spotify-app/static/media/logo.de573c89249da1ed4ef4c4dceff0e5d6.svg",
+    "index.html": "/spotify-app/index.html",
+    "main.684df430.css.map": "/spotify-app/static/css/main.684df430.css.map",
+    "main.cdaeec8f.js.map": "/spotify-app/static/js/main.cdaeec8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.684df430.css",
+    "static/js/main.cdaeec8f.js"
+  ]
+}
