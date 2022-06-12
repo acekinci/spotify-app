@@ -1,3 +1,7 @@
+# Spotify Clone
+
+I clone spotify app with using React.js and Tailwind Css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
